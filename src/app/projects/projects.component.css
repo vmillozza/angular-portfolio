@@ -1,0 +1,13 @@
+p {
+  color: #2c3e50; /* Imposta il colore del testo a un blu scuro elegante */
+  font-family: 'Arial', sans-serif; /* Usa Arial come font, o sans-serif se non disponibile */
+  font-size: 18px; /* Imposta la dimensione del font */
+  text-align: center; /* Allinea il testo al centro */
+  margin: 20px auto; /* Aggiunge margine sopra e sotto, e centra orizzontalmente il paragrafo */
+  padding: 10px; /* Aggiunge un padding intorno al testo */
+  width: 90%; /* Imposta la larghezza del paragrafo al 90% del suo contenitore */
+  border: 1px solid #bdc3c7; /* Aggiunge un bordo solido leggermente grigio */
+  border-radius: 5px; /* Arrotonda gli angoli del bordo */
+  background-color: #ecf0f1; /* Imposta un colore di sfondo chiaro */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Aggiunge una leggera ombra sotto il paragrafo */
+}
